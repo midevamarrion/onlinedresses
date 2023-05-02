@@ -1,0 +1,257 @@
+.all{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+    text-align: center;
+}
+/* .img{
+    width: 300px;
+    background-color: blueviolet;
+    width: 580px;
+    padding-left: 700px;
+    height: 500px;
+} */
+.ink{
+    background-color: blueviolet;
+    display: flex;
+    padding-left: 20%;
+    height: 400px;
+}
+.img img{
+    height: 400px;
+}
+/* .but{
+    margin-right: 350px;
+    margin-top: -300px;
+    margin-left: 300px;
+} */
+#ba{
+    margin-right: 150px;
+}
+#mg{
+    color: white;
+    font-size: 40px;
+}
+#lop{
+    /* border-radius: 20px; */
+    border:palevioletred solid;
+    background-color: palevioletred;
+    color: white;
+    font-size: 20px;
+    width: 200px;
+    height: 50px;
+}
+/* .main{
+    padding-bottom: 50%;
+    margin-bottom: 500px;
+    margin-left: 300px;
+} */
+.you{
+    margin-left: 40%;
+}
+#sisi{
+    font-size: 23px;
+    margin-left: 5%;
+    color: grey;
+}
+#he{
+    font-size: 25px;
+    color: grey;
+}
+#lol{
+    font-size: 22px;
+    color: gray;
+}
+#que{
+    width: 200px;
+    margin-left: 10%;
+    /* height: 250px; */
+}
+.did{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10%;
+    color: grey;
+    /* margin-left: 10%; */
+}
+#pp{
+    width: 200px;
+    height: 300px;
+    /* margin-left: 25%; */
+}
+#ll{
+    height: 300px;
+    /* margin-left: 35%; */
+}
+#mag{
+    height: 300px;
+    /* margin-left: 50%; */
+}
+.we{
+    margin-left: 10%;
+}
+.web img{
+    margin-left: 15%;
+}
+.me img{
+    margin-left: 20%;
+}
+.gg img{
+    margin-left: 30%;
+}
+#but1{
+    border:violet solid;
+    background-color: violet;
+    width: 300px;
+    height: 60px;
+    margin-left: 500px;
+    color: white;
+    font-size: 20px;
+    margin-top: 50px;
+}
+.the{
+    display: flex;
+    margin-left: 5%;
+    margin-top: 20px;
+}
+#kip{
+    width: 400px;
+}
+#lp{
+    width: 750px;
+    height: 300px;
+    margin-left: -35px;
+    /* margin-bottom: 300px; */
+}
+.rop img{
+    margin-top: 330px;
+    margin-left: -750px;
+    height: 290px;
+    width: 750px;
+}
+.see{
+    margin-left: 5%;
+}
+.jip{
+    margin-top: -300px;
+    margin-right: 30%;
+    margin-left: 45%;
+    color: white;
+}
+#on{
+    border:violet solid;
+    background-color: violet;
+    color: white;
+    font-size: 20px;
+    height: 50px;
+    width: 150px;
+}
+#pop img{
+    margin-left: 30%;
+    margin-bottom: 300px;
+}
+.div1{
+    margin-top: -250px;
+    margin-left: 8%;
+    color: white;
+}
+#sho{
+    width: 150px;
+    height: 40px;
+    background-color: violet;
+    border:violet solid;
+    font-size: 15px;
+}
+.par{
+    margin-top: 400px;
+    margin-left: 30%;
+}
+#par1{
+    font-size: 30px;
+}
+#wer{
+    color: grey;
+    font-size: 20px;
+}
+#yy{
+    color: gray;
+    font-size: 20px;
+}
+.leap img{
+    width: 2200px;
+    height: 700px;
+    /* margin-top: 200px; */
+    /* margin-left: 5%; */
+}
+#lin{
+    height: 200px;
+    width: 200px;
+    margin-bottom: -200px;
+}
+description{
+    margin-top: 200px;
+    font-size: 17px;
+    margin-left: 10px;
+}
+.handles{
+    margin-top: 40px;
+    margin-left: 10px;
+    font-size: 30px;
+}
+.all1{
+    margin-left: 450px;
+    margin-top: -265px;
+}
+.shiped{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    margin-left: -20px;
+}
+.contact1{
+    margin-left: 650px;
+    margin-top: -420px;
+}
+.abt{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    margin-left: -20px;
+}
+.letter{
+    margin-left: 900px;
+    margin-top: -320px;
+}
+.newe{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    margin-left: -20px;
+}
+.inputs{
+    margin-left: 900px;
+    margin-top: 20px;
+}
+.subscribe{
+    margin-left: 900px;
+    margin-top: 20px;
+    padding: 10px 50px;
+    background-color: palevioletred;
+    border-color: pink;
+    color: white;
+}
+.icons2{
+    margin-left: 900px;
+    margin-top: 20px;
+    font-size: 30px;
+    color: blue;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+    margin-top: 90px;
+    margin-bottom: 20px;
+}
